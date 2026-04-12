@@ -34,7 +34,7 @@ I like building things close to the metal — distributed systems, graphics engi
 | [**LRAM**](https://github.com/Tejzs/LRAM) | Visualizer for Left Rectangular Approximation Method | C++ |
 | [**ForgeGL**](https://github.com/Tejzs/ForgeGL) | OpenGL-based graphics engine | C++ |
 | [**ourdrive**](https://github.com/Tejzs/ourdrive) | Distributed storage project | Java |
-| [**RedBall**](https://github.com/Abhineet1144/RedBall) | Came Engine | Java |
+| [**RedBall**](https://github.com/Abhineet1144/RedBall) | Game Engine | Java |
 | [**DistributedFileSystem**](https://github.com/Abhineet1144/DistributedFileSystem) | Distributed file system implementation | Java |
 
 ---
